@@ -13,6 +13,10 @@
     "type": "git",
     "url": "git+https://github.com/joshie/josh-test.git"
   },
+  "engine": {
+    "node": "*",
+    "npm": "*"
+  },
   "author": "Josh Lohrman",
   "license": "ISC",
   "bugs": {
